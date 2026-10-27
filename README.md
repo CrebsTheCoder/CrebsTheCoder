@@ -14,7 +14,6 @@
 |---------|-------------|
 | [CoreUi](https://github.com/CrebsTheCoder/CoreUi) | WIP Java UI library inspired by OreUI. |
 | [skPackets](https://github.com/CrebsTheCoder/skPackets) | A Skript addon adding packet syntaxes. |
-| [skdocstool-minestom](https://github.com/CrebsTheCoder/skdocstool-minestom) | Documentation tool for Skript-Minestom. |
 
 ## Languages & Tools
 
