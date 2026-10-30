@@ -39,10 +39,10 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CrebsTheCoder&theme=blueberry&show_icons=true&hide_border=true)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=CrebsTheCoder&theme=catppuccin)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=CrebsTheCoder&theme=blueberry&hide_border=true)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=CrebsTheCoder&theme=catppuccin&size=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CrebsTheCoder&theme=blueberry&hide_border=true&layout=compact)
+![Top Languages](https://ghstats.dev/api/langs?username=CrebsTheCoder&theme=catppuccin&layout=vertical_list)
 
 </div>
