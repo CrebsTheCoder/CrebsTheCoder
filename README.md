@@ -20,7 +20,7 @@
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css,lua&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css,lua,cs&theme=dark" alt="Languages"/>
 </p>
 
 **Runtime & Development**
@@ -32,7 +32,7 @@
 **Tools & Environment**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,rider,vscode&theme=dark" alt="Tools"/>
 </p>
 
 ## GitHub Stats
