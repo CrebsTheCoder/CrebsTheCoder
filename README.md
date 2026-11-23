@@ -39,10 +39,6 @@
 
 <div align="center">
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=CrebsTheCoder&theme=catppuccin)
-
-![GitHub Stats Card](https://ghstats.dev/api/card?username=CrebsTheCoder&theme=catppuccin&size=compact)
-
-![Top Languages](https://ghstats.dev/api/langs?username=CrebsTheCoder&theme=catppuccin&layout=vertical_list)
+![CrebsTheCoder's GitHubCard](https://githubcard.com/CrebsTheCoder.svg?d=JqCVm9jxUafX)
 
 </div>
