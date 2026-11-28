@@ -39,6 +39,6 @@
 
 <div align="center">
 
-![CrebsTheCoder's GitHubCard](https://githubcard.com/CrebsTheCoder.svg?d=XOQ20KwX0lBO)
+![CrebsTheCoder's GitHubCard](https://githubcard.com/CrebsTheCoder.svg?d=7EMcz4BCtYp5)
 
 </div>
